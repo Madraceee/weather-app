@@ -6,7 +6,7 @@ Simple Javascript based webapp which displays the weather information about the 
 
 ![Weather App Gif](https://user-images.githubusercontent.com/100791797/185434234-5df9ca8e-5938-4932-a6c8-7d051fecc557.gif)
 
-#### Different display cards for different weather
+#### Different display cards for different weathers
 Simple interface with many custom icons to represent different weather conditions.
 
 ![Weather App Different Icons](https://user-images.githubusercontent.com/100791797/185437437-74d4feda-25b8-4f2a-8d46-69ad049c2833.jpg)
